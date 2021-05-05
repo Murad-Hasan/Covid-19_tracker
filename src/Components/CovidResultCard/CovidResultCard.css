@@ -1,0 +1,22 @@
+.worldState-box{
+    height: 100%;
+    width: 250px;
+    float: left;
+    margin-right: 50px;
+}
+.totalNumbers{
+    font-size: 2.7rem;
+    color: white;
+    font-weight: 700 !important;
+    font-family: 'Roboto';
+    width: 100%;
+    text-align: center;
+    margin-top: 10%;
+}
+.about{
+    width: 100%;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.7);
+    margin-top: 5%;
+    font-family: 'Roboto';
+}

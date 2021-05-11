@@ -1,0 +1,16 @@
+.header{
+    height: 70px;
+    width: 60%;
+    background: rgba(18,98,225,.8);
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    font-size: 1.2rem;
+}
+.header > p{
+    margin: 0px 20px;
+    color: white;
+}
